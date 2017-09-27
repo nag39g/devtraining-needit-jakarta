@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element display="true" label="New fIELD" max_length="40" name="new_field" type="string"/>
+        <element label="Closed date" max_length="40" name="u_closed_date" type="glide_date_time"/>
+        <element label="Requested for" max_length="32" name="u_requestedfor" reference="sys_user" type="reference"/>
+        <element label="Requested for" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
+    </element>
+</database>
