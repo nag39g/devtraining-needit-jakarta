@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="service_task" label="Needit U Finance Task" max_length="40" name="x_58872_needit_u_finance_task" sizeclass="1" text_index="true" type="collection"/>
+</database>
